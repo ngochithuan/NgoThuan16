@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<h3 align="left">📝 Languages and Tools I Use</h3>
+<h3 align="left">🛠️ Languages and Tools I Use</h3>
 
 ###
 
@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-<h3 align="left">💬 Where to find me</h3>
+<h3 align="left">🔗 Where to find me</h3>
 
 ###
 
@@ -68,9 +68,7 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left">Visitors:</h3>
+<h3 align="left">👁🗿 Visitors:</h3>
 
 ###
 
