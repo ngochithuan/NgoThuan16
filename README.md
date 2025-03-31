@@ -50,8 +50,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">💬 Where to find me</h3>
 
 ###
