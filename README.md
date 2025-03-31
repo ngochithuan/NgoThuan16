@@ -65,13 +65,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<h3 align="left">👁🗿 Visitors:</h3>
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/ngochithuan/count.svg?"  />
-
-###
