@@ -1,9 +1,9 @@
 <h2 align="left">Hi 👋! My name is Ngo Chi Thuan 🦦</h2>
 
 ###
-
-<img align="left" height="165" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif?cid=790b76112myf43xjb12ugqu43gdudtgqftrow4dn8a8p6tt4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 <p>I like reading books</p>
+<img align="left" height="165" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif?cid=790b76112myf43xjb12ugqu43gdudtgqftrow4dn8a8p6tt4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
 ###
 
 <div align="center">
