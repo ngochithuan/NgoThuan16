@@ -1,7 +1,4 @@
-<br clear="both">
-
 <h2 align="left">Hi 👋! My name is Ngo Chi Thuan 🦦</h2>
-
 ###
 
 <img align="left" height="100" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif?cid=790b76112myf43xjb12ugqu43gdudtgqftrow4dn8a8p6tt4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
