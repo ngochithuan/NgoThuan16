@@ -22,8 +22,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">🛠️ Languages and Tools I Use</h3>
 
 ###
@@ -67,6 +65,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">👁🗿 Visitors:</h3>
 
