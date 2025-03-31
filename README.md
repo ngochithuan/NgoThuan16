@@ -50,11 +50,11 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">💬 Where to find me</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="mailto:ngochithuan.dev@gmail.com" target="_blank">
