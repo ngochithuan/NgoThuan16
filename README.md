@@ -13,7 +13,7 @@
 
 ###
 
-<button onclick="() => {console.log("Hello")}"></button>
+<button>Hello</button>
 <br clear="both">
 
 <div align="center">
