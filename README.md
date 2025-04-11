@@ -13,7 +13,6 @@
 
 ###
 
-<button>Hello</button>
 <br clear="both">
 
 <div align="center">
