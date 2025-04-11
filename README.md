@@ -19,9 +19,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ngochithuan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngochithuan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ngochithuan&amp;theme=dark&amp;hide_border=false"> 
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ngochithuan)](https://git.io/streak-stats)
 ###
 
 <h3 align="left">🛠️ Languages and Tools I Use</h3>
